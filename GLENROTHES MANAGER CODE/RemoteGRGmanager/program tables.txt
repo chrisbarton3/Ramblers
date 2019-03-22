@@ -1,0 +1,70 @@
+PROGRAM TABLES
+
+PROGRAMME
+
+0	dateid	int	Unchecked
+1	walk	nvarchar(50)	Checked
+2	descr	nvarchar(MAX)	Checked
+3	ascent	nchar(10)	Checked
+4	grade	nchar(10)	Checked
+5	dist	nchar(10)	Checked
+6	time	nchar(10)	Checked
+7	meet	nvarchar(50)	Checked
+8	start	nvarchar(50)	Checked
+9	place	nvarchar(MAX)	Checked
+10	osmap	nchar(10)	Checked
+11	griref	nchar(10)	Checked
+12	kids	bit	Checked
+13	dogs	bit	Checked
+14	leader	nvarchar(50)	Checked
+15	phone	nvarchar(50)	Checked
+16	email	nvarchar(50)	Checked
+17	note	nvarchar(MAX)	Checked
+18	period	nvarchar(50)	Checked
+19	itemdate	date	Checked
+
+ALLWALKS
+
+0	IDW	int	Unchecked
+1	NAME	nvarchar(MAX)	Checked
+2	TOWN	nvarchar(50)	Checked
+3	DESCRIPTION	nvarchar(MAX)	Checked
+4	GRADE	nvarchar(50)	Checked
+5	DISTANCE	nvarchar(50)	Checked
+6	MEET_TIME	nvarchar(50)	Checked
+7	START_TIME	nvarchar(50)	Checked
+8	TIME	nvarchar(50)	Checked
+9	START_PLACE	nvarchar(MAX)	Checked
+10	GRIDREF	nvarchar(50)	Checked
+11	OS_MAP	nvarchar(50)	Checked
+12	CHILDREN	bit	Checked
+13	DOGS	bit	Checked
+14	MAP	nvarchar(50)	Checked
+15	ASCENT	nvarchar(50)	Checked
+16	LASTLEADER	nvarchar(50)	Checked
+17	LASTDATE	nchar(10)	Checked
+		
+FINAL PROGRAM
+
+0	PROGRAM_ID	int	Unchecked
+1	CDATE	date	Checked
+2	CNAME	nvarchar(MAX)	Checked
+3	CDESCR	nvarchar(MAX)	Checked
+CTOWN	nvarchar(50)	Checked
+CGRADE	nvarchar(50)	Checked
+CDIST	nvarchar(50)	Checked
+CTIME	nvarchar(50)	Checked
+CMEET	nvarchar(50)	Checked
+CSTART	nvarchar(50)	Checked
+CPLACE	nvarchar(MAX)	Checked
+COSMAP	nvarchar(50)	Checked
+CGRIDREF	nvarchar(50)	Checked
+CKIDS	bit	Checked
+CDOGS	bit	Checked
+CLEADER	nvarchar(50)	Checked
+CPHONE	nvarchar(50)	Checked
+CEMAIL	nvarchar(50)	Checked
+CNOTE	nvarchar(MAX)	Checked
+PERIOD	nvarchar(15)	Checked
+ASCENT	nvarchar(50)	Checked
+		

@@ -1,0 +1,21 @@
+id	int	Unchecked
+itemdate	date	Checked
+period	nchar(10)	Checked
+mode	nchar(10)	Checked
+leader	nvarchar(50)	Checked
+phone	nvarchar(50)	Checked
+email	nvarchar(50)	Checked
+walk	nvarchar(50)	Checked
+descr	nvarchar(MAX)	Checked
+grade	nchar(10)	Checked
+dist	nchar(10)	Checked
+time	nchar(10)	Checked
+meet	nchar(10)	Checked
+start	nchar(10)	Checked
+place	nvarchar(MAX)	Checked
+os	nchar(10)	Checked
+gridref	nchar(10)	Checked
+child	nchar(10)	Checked
+dog	nchar(10)	Checked
+note	nvarchar(MAX)	Checked
+		Unchecked

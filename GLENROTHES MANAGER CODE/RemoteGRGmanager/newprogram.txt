@@ -1,0 +1,86 @@
+ Private Sub makeNewProgram(ByVal initdate As Date)
+       
+        Dim pyear As String = initdate.Year.ToString
+        Dim pmon As Integer = initdate.Month
+        speriod = initdate.ToShortDateString
+
+        If pmon < 6 Then
+            speriod = pyear & "-Summer"
+        Else
+            speriod = pyear & "-Winter"
+        End If
+
+        dy = Weekday(initdate)
+        Select Case dy 'date is a sunday
+            Case 1
+                For indx As Integer = 0 To 50 Step 2
+                    datelist(indx) = initdate.AddDays(7 * indx / 2 + swapWE)
+                    datelist(indx + 1) = initdate.AddDays(7 * indx / 2 + 4)
+                    If swapWE = 0 Then
+                        swapWE = -1
+                    Else
+                        swapWE = 0
+                    End If
+                Next
+            Case 7 'date is saturday
+                For indx As Integer = 0 To 50 Step 2
+                    datelist(indx) = initdate.AddDays(7 * indx / 2 + swapWE)
+                    datelist(indx + 1) = initdate.AddDays(7 * indx / 2 + 5)
+                    If swapWE = 0 Then
+                        swapWE = 1
+                    Else
+                        swapWE = 0
+                    End If
+                Next
+            Case 5 'date thursday
+                For indx As Integer = 0 To 50 Step 2
+                    datelist(indx) = initdate.AddDays(7 * indx / 2)
+                    datelist(indx + 1) = initdate.AddDays(7 * indx / 2 + 2 + swapWE)
+                    If swapWE = 0 Then
+                        swapWE = 1
+                    Else
+                        swapWE = 0
+                    End If
+                Next
+
+            Case Else
+                startdate.Text = "Invalid date!"
+                Exit Sub
+        End Select
+        If dy = 5 Then
+            sname1 = "Strollers Walk"
+            sleader1 = ListBox1.Items(0).Text
+            sname2 = "- none chosen"
+            sleader2 = "- none chosen"
+        Else
+            sname2 = "Strollers Walk"
+            sleader2 = ListBox1.Items(0).Text
+            sname1 = "- none chosen"
+            sleader1 = "- none chosen"
+        End If
+
+        makePermanentTable()
+
+    End Sub
+
+    'read array into program table
+    Private Sub makePermanentTable()
+
+        SqlNewProgram.SelectCommand = "SELECT * FROM chrisbarton_chris.PROGRAM"
+        
+        For indx As Integer = 1 To 52 Step 2
+            sdate = datelist(indx - 1).ToShortDateString
+            'sdate = USdate(sdate)
+
+            dateid = makeID(datelist(indx - 1))
+
+            SqlNewProgram.InsertCommand = "INSERT INTO chrisbarton_chris.PROGRAM ([PROGRAM_ID], [W_DATE], [W_NAME], [W_LEADER], [PERIOD]) VALUES ('" & dateid.ToString & "', '" & sdate & "', '" & sname1 & "', '" & sleader1 & "','" & speriod & "')"
+            SqlNewProgram.Insert()
+            sdate = datelist(indx).ToShortDateString
+            'sdate = USdate(sdate)
+            dateid = makeID(datelist(indx))
+
+            SqlNewProgram.InsertCommand = "INSERT INTO chrisbarton_chris.PROGRAM ([PROGRAM_ID], [W_DATE], [W_NAME], [W_LEADER], [PERIOD]) VALUES ('" & dateid.ToString & "', '" & sdate & "', '" & sname2 & "', '" & sleader2 & "','" & speriod & "')"
+            SqlNewProgram.Insert()
+        Next
+    End Sub

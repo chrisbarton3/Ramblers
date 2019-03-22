@@ -1,0 +1,88 @@
+SELECT  chrisbarton_chris.PROGRAM.PROGRAM_ID, chrisbarton_chris.PROGRAM.W_DATE AS CDATE, chrisbarton_chris.ALLWALKS.NAME AS CNAME, 
+               chrisbarton_chris.LEADERS.LEADER AS CLEADER, chrisbarton_chris.ALLWALKS.DESCRIPTION AS CDESCR, chrisbarton_chris.ALLWALKS.TOWN AS CTOWN, 
+               chrisbarton_chris.ALLWALKS.GRADE AS CGRADE, chrisbarton_chris.ALLWALKS.DISTANCE AS CDIST, chrisbarton_chris.ALLWALKS.MEET_TIME AS CMEET, 
+               chrisbarton_chris.ALLWALKS.START_TIME AS CSTART, chrisbarton_chris.ALLWALKS.TIME AS CTIME, chrisbarton_chris.ALLWALKS.START_PLACE AS CPLACE, 
+               chrisbarton_chris.ALLWALKS.GRIDREF AS CGRIDREF, chrisbarton_chris.ALLWALKS.OS_MAP AS COSMAP, chrisbarton_chris.ALLWALKS.CHILDREN AS CKIDS, 
+               chrisbarton_chris.ALLWALKS.DOGS AS CDOGS, chrisbarton_chris.LEADERS.PHONE AS CPHONE, chrisbarton_chris.LEADERS.EMAIL AS CEMAIL, 
+               chrisbarton_chris.PROGRAM.NOTE AS CNOTE, chrisbarton_chris.PROGRAM.PERIOD
+FROM     chrisbarton_chris.LEADERS RIGHT OUTER JOIN
+               chrisbarton_chris.PROGRAM ON chrisbarton_chris.LEADERS.LEADER = chrisbarton_chris.PROGRAM.W_LEADER LEFT OUTER JOIN
+               chrisbarton_chris.ALLWALKS ON chrisbarton_chris.PROGRAM.W_NAME = chrisbarton_chris.ALLWALKS.NAME
+ORDER BY CDATE
+
+SELECT  TOP (100) PERCENT chrisbarton_chris.ALLWALKS.IDW AS WALKID, chrisbarton_chris.FINAL_PROGRAM.CDATE AS DATEID, chrisbarton_chris.FINAL_PROGRAM.PERIOD, 
+               chrisbarton_chris.FINAL_PROGRAM.CNAME AS WALK, chrisbarton_chris.FINAL_PROGRAM.CLEADER AS LEADER
+FROM     chrisbarton_chris.ALLWALKS RIGHT OUTER JOIN
+               chrisbarton_chris.FINAL_PROGRAM ON chrisbarton_chris.ALLWALKS.NAME = chrisbarton_chris.FINAL_PROGRAM.CNAME
+WHERE  (chrisbarton_chris.FINAL_PROGRAM.CNAME <> 'Strollers Walk')
+ORDER BY DATEID
+
+Public Class Form1
+    Dim currentPeriod As String
+    Dim newPeriod As String
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        rbThisyear.Text = "This year - " & Year(Now).ToString
+        rbNextyear.Text = "Next year - " & (Year(Now) + 1).ToString
+        RefreshPeriod()
+        loadall()
+
+    End Sub
+
+   
+
+    Private Sub NewProgramme()
+        Dim np As Prog_period = New Prog_period(tbNPseason.Text, tbNPyear.Text)
+        Dim pd As String = tbNPseason.Text & " - " & tbNPyear.Text
+        Dim nc As String = "- none chosen"
+        Dim stname As String = GRGDataSet._STROLLERS_WALK(0).walkname
+        Dim stgrd As String = GRGDataSet._STROLLERS_WALK(0).grade
+        Dim stdist As String = GRGDataSet._STROLLERS_WALK(0).distance
+        Dim stdescr As String = GRGDataSet._STROLLERS_WALK(0).description
+        Dim sttim As String = GRGDataSet._STROLLERS_WALK(0).time
+        Dim stmeet As String = GRGDataSet._STROLLERS_WALK(0).meet
+        Dim ststrt As String = GRGDataSet._STROLLERS_WALK(0).start
+        Dim stpl As String = GRGDataSet._STROLLERS_WALK(0).place
+        Dim stgr As String = GRGDataSet._STROLLERS_WALK(0).gridref
+        Dim stch As Boolean = GRGDataSet._STROLLERS_WALK(0).children
+        Dim stdg As Boolean = GRGDataSet._STROLLERS_WALK(0).dogs
+        Dim stos As String = GRGDataSet._STROLLERS_WALK(0).osmap
+        Dim stleader As String = GRGDataSet._STROLLERS_LEADER(0).leader
+        Dim stphon As String = GRGDataSet._STROLLERS_LEADER(0).phone
+        Dim steml As String = GRGDataSet._STROLLERS_LEADER(0).email
+
+        Try
+            For ix As Integer = 0 To 51
+                With GRGDataSet.PROGRAMME
+                    Dim dt As Date = np.itemdates(ix)
+                    If np.itemdays(ix) = "Thursday" Then
+                        .AddPROGRAMMERow(dt, pd, stname, stleader, "", stdescr, stgrd, stdist, sttim, stmeet, stpl, ststrt, stpl, stos, stgr, "", "", stch, stdg, stphon, steml)
+                    Else
+                        .AddPROGRAMMERow(dt, pd, nc, nc, "", "", "", "", "", "", "LCCP", "", "", "", "", "", "", False, False, "", "")
+                    End If
+
+                End With
+            Next
+            MsgBox("Check programme on design page, then SAVE to confirm changes.")
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try
+
+    End Sub
+
+
+    Private Sub bNewProgramme_Click(sender As Object, e As EventArgs) Handles bNewProgramme.Click
+        newPeriod = tbNPseason.Text & " - " & tbNPyear.Text
+        If MsgBox("Make new period for " & newPeriod & "?" & vbCrLf & "This will delete current programme.", MsgBoxStyle.OkCancel) <> MsgBoxResult.Ok Then
+            Exit Sub
+        End If
+        For ix As Integer = 0 To GRGDataSet.PROGRAMME.Rows.Count - 1
+            With GRGDataSet.PROGRAMME(ix)
+                .Delete()
+            End With
+        Next
+        NewProgramme()
+    End Sub
+
+End Class

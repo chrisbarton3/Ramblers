@@ -1,0 +1,314 @@
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\bin\Debug\Programme Designer.exe.config
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\bin\Debug\Programme Designer.exe
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\bin\Debug\Programme Designer.pdb
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\bin\Debug\Programme Designer.xml
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme_Designer.frmMain.resources
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme_Designer.Resources.resources
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme Designer.exe
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme Designer.xml
+C:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme Designer.pdb
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\bin\Debug\Programme Designer.exe.config
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme Designer.exe
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme Designer.xml
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme Designer.pdb
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\bin\Debug\Programme Designer.exe
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\bin\Debug\Programme Designer.pdb
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\bin\Debug\Programme Designer.xml
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme_Designer.frmMain.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme_Designer.Resources.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\Programme Designer\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\GRGManager.exe.config
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\GRGManager.exe
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\GRGManager.xml
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\GRGManager.exe
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\GRGManager.xml
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.frmMain.resources
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.Resources.resources
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.FTPutility.resources
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.Dialog1.resources
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.photos.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\GRGManager.exe.config
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\GRGManager.exe
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\GRGManager.pdb
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\GRGManager.xml
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.Dialog1.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.FTPutility.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.frmMain.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.Resources.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.photos.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\GRGManager.exe
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\GRGManager.xml
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.osfinder.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.osfinder.resources
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\Newtonsoft.Json.dll
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme Designer.vbprojResolveAssemblyReference.cache
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.NewWalk.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\Programme_Designer.addFPitem.resources
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Release\GRGManager.exe.config
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Release\GRGManager.exe.manifest
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Release\GRGManager.application
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Release\GRGManager.exe
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Release\GRGManager.pdb
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\bin\Release\GRGManager.xml
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\GRGManager.exe.manifest
+C:\PROJECTS\CURRENT PROJECT\GRGManager\Programme Designer\obj\Debug\GRGManager.application
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\bin\Release\GRGManager.exe.config
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\GRGManager.exe
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\GRGManager.xml
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\bin\Release\GRGManager.exe.manifest
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\bin\Release\GRGManager.application
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\bin\Release\GRGManager.exe
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\bin\Release\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\bin\Release\GRGManager.xml
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\bin\Release\Newtonsoft.Json.dll
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme_Designer.addFPitem.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme_Designer.Dialog1.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme_Designer.FTPutility.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme_Designer.frmMain.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme_Designer.Resources.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme_Designer.NewWalk.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme_Designer.osfinder.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme_Designer.photos.resources
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\GRGManager.exe.manifest
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\GRGManager.application
+D:\PROJECTS\CURRENT PROJECT\Programme Designer\obj\Debug\Programme Designer.vbprojResolveAssemblyReference.cache
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Newtonsoft.Json.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.addFPitem.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.addphoto.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.AJP.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.Dialog1.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.frmMain.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.Resources.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.NewWalk.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.osfinder.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.walkfinder.resources
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.exe
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.xml
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.pdb
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.exe.config
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.exe
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.pdb
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.xml
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme Designer.vbprojResolveAssemblyReference.cache
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.TrustInfo.xml
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.exe.manifest
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.application
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.exe.manifest
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.application
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Microsoft.TeamFoundation.Client.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Microsoft.TeamFoundation.Common.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Microsoft.TeamFoundation.Diff.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Microsoft.VisualStudio.Services.Client.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Microsoft.VisualStudio.Services.Common.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Microsoft.VisualStudio.Services.WebApi.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\System.Net.Http.Formatting.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\System.Web.Http.dll
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Microsoft.TeamFoundation.Common.xml
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\Microsoft.TeamFoundation.Diff.xml
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\System.Net.Http.Formatting.xml
+C:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\System.Web.Http.xml
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.exe.config
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.exe.manifest
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.application
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.exe
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\bin\Release\GRGManager.xml
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.addFPitem.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.addphoto.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.AJP.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.Dialog1.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.DraftAJP.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.Form1.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.getdate.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.loaddata.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.frmMain.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.Resources.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.NewWalk.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.osfinder.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.StopPress.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme_Designer.walkfinder.resources
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.TrustInfo.xml
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.exe.manifest
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.application
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.exe
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.xml
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\LocalDBmanager\obj\Debug\Programme Designer.vbprojResolveAssemblyReference.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe.config
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe.manifest
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.application
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.addFPitem.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.addphoto.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.Dialog1.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.DraftAJP.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.getdate.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.frmMain.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.Resources.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.NewWalk.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.osfinder.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.StopPress.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.walkfinder.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.TrustInfo.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.exe.manifest
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.application
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe.config
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.exe
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.xml
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.pdb
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe.manifest
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.application
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.pdb
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.xml
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.addFPitem.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.addphoto.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.AJP.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.Dialog1.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.DraftAJP.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.getdate.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.loaddata.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.frmMain.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.Resources.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.NewWalk.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.osfinder.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.StopPress.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.walkfinder.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.TrustInfo.xml
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.exe.manifest
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.application
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.walkstable.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbprojResolveAssemblyReference.cache
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.walkstable.resources
+C:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbproj.CoreCompileInputs.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.archive.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe.config
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.exe
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.xml
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.pdb
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.addFPitem.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.addphoto.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.AJP.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.archive.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.Dialog1.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.DraftAJP.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.getdate.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.loaddata.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.frmMain.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.Resources.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.NewWalk.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.osfinder.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.StopPress.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.walkfinder.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.walkstable.resources
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbproj.GenerateResource.Cache
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe.manifest
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.application
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.exe
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.pdb
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\GRGManager.xml
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.TrustInfo.xml
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.exe.manifest
+C:\Users\chris\Google Drive\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\GRGManager.application
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.AJPoutput.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\FluentFTP.dll
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Release\FluentFTP.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbproj.CopyComplete
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme_Designer.FTPform.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Debug\GRGManager.exe.config
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Debug\GRGManager.exe.manifest
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Debug\GRGManager.application
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Debug\GRGManager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Debug\GRGManager.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Debug\GRGManager.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Debug\FluentFTP.dll
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\bin\Debug\FluentFTP.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalDBmanager\obj\Debug\Programme Designer.vbprojAssemblyReference.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\bin\Debug\GRGManager.exe.config
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\bin\Debug\GRGManager.exe.manifest
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\bin\Debug\GRGManager.application
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\bin\Debug\GRGManager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\bin\Debug\GRGManager.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\bin\Debug\GRGManager.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\bin\Debug\FluentFTP.dll
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\bin\Debug\FluentFTP.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme Designer.vbprojAssemblyReference.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.addFPitem.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.addphoto.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.AJPoutput.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.archive.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.Dialog1.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.DraftAJP.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.FTPform.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.getdate.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.frmMain.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.Resources.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.NewWalk.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.osfinder.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.StopPress.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.walkfinder.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme_Designer.walkstable.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme Designer.vbproj.GenerateResource.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme Designer.vbproj.CoreCompileInputs.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\GRGManager.TrustInfo.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\GRGManager.exe.manifest
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\GRGManager.application
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\Programme Designer.vbproj.CopyComplete
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\GRGManager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\GRGManager.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\RemoteGRGmanager\obj\Debug\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme Designer.vbprojAssemblyReference.cache
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.addphoto.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.AJPoutput.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.archive.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.Dialog1.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.DraftAJP.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.FTPform.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.getdate.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.frmMain.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.Resources.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.NewWalk.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.osfinder.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.StopPress.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.walkfinder.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme_Designer.walkstable.resources
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme Designer.vbproj.GenerateResource.cache
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme Designer.vbproj.CoreCompileInputs.cache
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\GRGManager.exe
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\GRGManager.xml
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\bin\Debug\GRGManager.exe.config
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\bin\Debug\GRGManager.exe.manifest
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\bin\Debug\GRGManager.application
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\bin\Debug\GRGManager.exe
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\bin\Debug\GRGManager.pdb
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\bin\Debug\GRGManager.xml
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\bin\Debug\FluentFTP.dll
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\bin\Debug\FluentFTP.xml
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\GRGManager.TrustInfo.xml
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\GRGManager.exe.manifest
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\GRGManager.application
+D:\PROJECTS\CURRENT PROJECT\RemoteGRGmanager\obj\Debug\Programme Designer.vbproj.CopyComplete

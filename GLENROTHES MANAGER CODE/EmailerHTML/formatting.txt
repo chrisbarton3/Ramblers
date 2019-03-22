@@ -1,0 +1,30 @@
+
+    Private Sub bBold_Click(sender As Object, e As EventArgs) Handles bBold.Click
+        Dim selstr As String = CDESCRTextBox.SelectedText
+        If selstr = "" Then Exit Sub
+        selstr = "<b>" & selstr & "</b>"
+        CDESCRTextBox.SelectedText = selstr
+    End Sub
+
+    Private Sub bClose_Click(sender As Object, e As EventArgs) Handles bClose.Click
+        If MsgBox("Have you saved any changes?", MsgBoxStyle.OkCancel) = MsgBoxResult.Cancel Then Exit Sub
+        Me.Close()
+    End Sub
+
+    Private Sub bItalic_Click(sender As Object, e As EventArgs) Handles bItalic.Click
+        Dim selstr As String = CDESCRTextBox.SelectedText
+        If selstr = "" Then Exit Sub
+        selstr = "<i>" & selstr & "</i>"
+        CDESCRTextBox.SelectedText = selstr
+    End Sub
+
+    Private Sub bUnderline_Click(sender As Object, e As EventArgs) Handles bUnderline.Click
+        Dim selstr As String = CDESCRTextBox.SelectedText
+        If selstr = "" Then Exit Sub
+        selstr = "<u>" & selstr & "</u>"
+        CDESCRTextBox.SelectedText = selstr
+    End Sub
+
+    Private Sub CDESCRTextBox_TextChanged(sender As Object, e As EventArgs) Handles CDESCRTextBox.TextChanged
+        CDESCRTextBox.Text = CDESCRTextBox.Text.Replace(vbCrLf, "<br />")
+    End Sub

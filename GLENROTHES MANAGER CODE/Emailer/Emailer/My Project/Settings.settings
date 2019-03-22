@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="chrisbarton_grg10ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=5.153.14.228,779;Initial Catalog=chrisbarton_grg10;Persist Security Info=True;User ID=chrisbarton_chris;Password=G@rf0rt#&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=5.153.14.228,779;Initial Catalog=chrisbarton_grg10;Persist Security Info=True;User ID=chrisbarton_chris;Password=G@rf0rt#</Value>
+    </Setting>
+    <Setting Name="mailserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="account" Type="System.String" Scope="User">
+      <Value Profile="(Default)">glenrothesrambler@gmail.com</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Go4awalk@Glenrothes</Value>
+    </Setting>
+    <Setting Name="fromemail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">info@glenrothesramblers.co.uk</Value>
+    </Setting>
+    <Setting Name="fromname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Glenrothes Ramblers Secretary</Value>
+    </Setting>
+    <Setting Name="history" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="currentHeading" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="currentattachment" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="currentBody" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="htmlheader" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"&gt;
+&lt;HTML&gt;&lt;HEAD&gt;&lt;TITLE&gt;Group Email&lt;/TITLE&gt;
+&lt;META content="text/html; charset=UTF-8" http-equiv=content-type&gt;
+&lt;META name=GENERATOR content="MSHTML 11.00.10570.1001"&gt;&lt;/HEAD&gt;
+&lt;BODY style="FONT-FAMILY: Helvetica,Arial,sans-serif; FONT-SIZE: </Value>
+    </Setting>
+    <Setting Name="htmlfooter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;/BODY&gt;&lt;/HTML&gt;</Value>
+    </Setting>
+    <Setting Name="currentFsize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

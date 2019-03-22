@@ -1,0 +1,31 @@
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.exe.config
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.exe
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.pdb
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.xml
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.SQLbackup.resources
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.GRGlocal.resources
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.Resources.resources
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.vbproj.GenerateResource.cache
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.vbproj.CoreCompileInputs.cache
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.exe
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.xml
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.pdb
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.walkfinder.resources
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.Main.resources
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.exe.CodeAnalysisLog.xml
+D:\PROJECTS\CURRENT PROJECT\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.exe.lastcodeanalysissucceeded
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.vbprojAssemblyReference.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.Main.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.SQLbackup.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.GRGlocal.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.Resources.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.walkfinder.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.vbproj.GenerateResource.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.vbproj.CoreCompileInputs.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\obj\Debug\LocalGRGmanager.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.exe.config
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\LocalGRGmanager\LocalGRGmanager\bin\Debug\LocalGRGmanager.xml

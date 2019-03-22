@@ -1,0 +1,13 @@
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\bin\Debug\membership.accdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\bin\Debug\MembershipManager.exe.config
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\bin\Debug\MembershipManager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\bin\Debug\MembershipManager.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\bin\Debug\MembershipManager.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\obj\Debug\MembershipManager.Main.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\obj\Debug\MembershipManager.Resources.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\obj\Debug\MembershipManager.vbproj.GenerateResource.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\obj\Debug\MembershipManager.vbproj.CoreCompileInputs.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\obj\Debug\MembershipManager.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\obj\Debug\MembershipManager.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\obj\Debug\MembershipManager.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\MembershipManager\MembershipManager\obj\Debug\MembershipManager.vbprojResolveAssemblyReference.cache

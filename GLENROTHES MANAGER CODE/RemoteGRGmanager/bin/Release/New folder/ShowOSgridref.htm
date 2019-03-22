@@ -1,0 +1,75 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>OS Grid Reference Finder</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&mkt=en-gb"></script>
+
+    <script type="text/javascript" src="OSutility.js"></script>
+   
+    <script type="text/javascript">
+       
+        function getQuerystr() {
+            var url = window.location.href;
+            var urllen = url.length;
+            var osgridref = url.substr(urllen - 8, 8);
+            if (osgridref.indexOf("N") == -1) {
+                osgridref = "NO284008"
+            }
+            document.getElementById("osgr").value = "OS MAP CENTRED ON GRID REFERENCE: " + osgridref;
+            if (osgridref.length > 0) {
+                if (osgridref.indexOf(',') != -1) {
+                    var eastnorth = osgridref.split(',');
+                    osgridref = gridrefNumToLet(eastnorth[0], eastnorth[1], 10);
+                }
+                
+                var latlong = OSGridToLatLong(osgridref);
+                getMap(latlong.lat, latlong.lng);
+            }
+            return
+        }
+
+        function getMap(y, x) {
+            var map = null;
+
+            var mapOptions = {
+                credentials: "AhoErZbICR_EGXWeaqvz5HN7bhN25nNwRaCDCiuceoiKCmzBuREPtQCSolGITwQ4",
+                center: new Microsoft.Maps.Location(y, x),
+                mapTypeId: Microsoft.Maps.MapTypeId.ordnanceSurvey,
+                zoom: 14,
+                showScalebar: true,
+                enableSearchLogo: false,
+                showMapTypeSelector: false
+            }
+            map = new Microsoft.Maps.Map(document.getElementById('myMap'), mapOptions);
+            var pushpinOptions = {
+                draggable: false,
+                text: 'P'
+            }
+            var pushpin = new Microsoft.Maps.Pushpin(map.getCenter(), pushpinOptions);
+            map.entities.push(pushpin);
+        }
+
+     </script>
+   
+</head>
+<body onload="getQuerystr();">
+    <input id="osgr" type="text" style="font-family: Arial; font-size: 22px; font-weight: bold; width:700px" />
+
+    <div id='myMap' style="position:relative; height: 800px"></div>
+    <div>
+        <input id="gridref" type="hidden" value="NT074834"  />
+        <div style="font-family: Arial; width:1000px; font-size:14px">
+            This map's copyright belongs to Microsoft Corporation and its use is licenced under 'not for profit' terms.
+            For details see <a href="http://www.microsoft.com/maps/assets/docs/terms.aspx" style="font-size:16px">Microsoft Terms of Use</a><br />
+            The Ramblers' Association is a company limited by guarantee, registered in
+            England & Wales.Company Registration no: 4458492.<br />  Registered Charity, in England
+            & Wales no: 1093577, in Scotland, no: SC039799. Registered office: 2nd floor, Camelford
+            House, 87-89 Albert Embankment, London SE1 7TW
+        </div>
+    </div>
+
+
+</body>
+
+</html>

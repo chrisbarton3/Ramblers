@@ -1,0 +1,105 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <title>OS Grid Reference Finder</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&mkt=en-gb"></script>
+
+    <script type="text/javascript" src="OSutility.js"></script>
+   
+    <script type="text/javascript">
+        var map = null;
+        var inity = 56.194722709378674;
+        var initx = -3.1773486452792206;
+
+        function getNewmap() {
+            var osgridref = document.getElementById("tbgridref").value;
+            if (osgridref.length > 8) {
+                var str = osgridref;
+                osgridref = str.substr(0, 2) + str.substr(3, 6);
+            }
+            if (osgridref.length > 0) {
+                if (osgridref.indexOf(',') != -1) {
+                    var eastnorth = osgridref.split(',');
+                    osgridref = gridrefNumToLet(eastnorth[0], eastnorth[1], 10);
+                }
+                var latlong = OSGridToLatLong(osgridref);
+                getMap(latlong.lat, latlong.lng);
+                attachPushpinDragEvent();
+            }
+        }
+
+        function getMap(y, x) {
+
+            var mapOptions = {
+                credentials: "AhoErZbICR_EGXWeaqvz5HN7bhN25nNwRaCDCiuceoiKCmzBuREPtQCSolGITwQ4",
+                center: new Microsoft.Maps.Location(y, x),
+                mapTypeId: Microsoft.Maps.MapTypeId.ordnanceSurvey,
+                zoom: 13,
+                showScalebar: true,
+                enableSearchLogo: false,
+                showMapTypeSelector: false
+            }
+            map = new Microsoft.Maps.Map(document.getElementById('myMap'), mapOptions);
+            document.getElementById("tblat").value = y;
+            document.getElementById("tblon").value = x;
+        }
+
+        function attachPushpinDragEvent() {
+            var pushpinOptions = { draggable: true, text: "P" };
+            var pushpin = new Microsoft.Maps.Pushpin(map.getCenter(), pushpinOptions);
+            var pushpindrag = Microsoft.Maps.Events.addHandler(pushpin, 'dragend', onDragDetails);
+            map.entities.push(pushpin);
+
+        }
+
+        onDragDetails = function (e) {
+            //              alert("Event Info - end drag \n" + "Latitude/Longitude: " + e.entity.getLocation());
+            var pinloc = e.entity.getLocation();
+            document.getElementById("tblat").value = pinloc.latitude;
+            document.getElementById("tblon").value = pinloc.longitude;
+
+        }
+
+        function getGridref() {
+            lat = document.getElementById("tblat").value;
+            lon = document.getElementById("tblon").value;
+            osgr = LLtoNE(lat, lon);
+
+            document.getElementById("tbgridref").value = osgr;
+            navigate("#map")
+        }
+        
+</script>
+
+  
+
+</head>
+<body style="font-family: Arial; font-size: 18px" onload="getMap(inity, initx);">
+    <span style="font-size: 20px"><b>Find the OS Grid Reference of the start of a walk</b></span><br />
+    Navigate to the the approximate position of the start of the walk, either by dragging the map or using the top left pan control.<br />
+    Zoom out or in on the map using the mouse wheel or the top left (+) or (-) zoom buttons. Continuing to zoom in will display a 1:25000 OS Explorer Map.<br />
+    Then click <input type="button" class="btBlueS" value="Add Marker Pin to map" onclick="attachPushpinDragEvent();" /> to add a draggable marker, and drag the pin to the start point.<br /><br/>
+    Click <input id="Submit1" type="button" class="btBlueS" value="Calculate" onclick="getGridref()" /> to get Grid Reference = <input id="tbgridref" style="font-size: 12pt; width: 90px" type="text" />     Centre map on this point -
+    <input id="Submit2" type="button" class="btGreyS" value="Centre Map" onclick="getNewmap()" />
+    <br />
+
+    <div id='myMap' style="position:relative; width:1200px; height:800px; border: 1px solid black"></div>
+    <div>
+
+
+        <input id="tblat" type="hidden" /><input id="tblon" type="hidden" />
+        <div style="width:1000px; font-size:14px">
+            This map's copyright belongs to Microsoft Corporation and its use is licenced under 'not for profit' terms.
+            For details see <a href="http://www.microsoft.com/maps/assets/docs/terms.aspx" style="font-size:16px">Microsoft Terms of Use</a><br />
+            The Ramblers' Association is a company limited by guarantee, registered in
+            England & Wales.Company Registration no: 4458492.<br />  Registered Charity, in England
+            & Wales no: 1093577, in Scotland, no: SC039799. Registered office: 2nd floor, Camelford
+            House, 87-89 Albert Embankment, London SE1 7TW
+        </div>
+    </div>
+
+
+</body>
+
+</html>

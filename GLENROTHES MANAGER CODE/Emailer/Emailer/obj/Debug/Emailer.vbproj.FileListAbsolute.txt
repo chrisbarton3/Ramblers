@@ -1,0 +1,79 @@
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.exe.config
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.frmMain.resources
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.Resources.resources
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.vbproj.GenerateResource.Cache
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.xml
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.exe
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.pdb
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.xml
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.exe
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.pdb
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.exe.config
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.exe
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.xml
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.pdb
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.exe
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.pdb
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.xml
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.frmMain.resources
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.Resources.resources
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.vbproj.GenerateResource.Cache
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.newEmail.resources
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\bin\Debug\Emailer.exe.config
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.exe
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.xml
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.pdb
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.frmMain.resources
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.Resources.resources
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.newEmail.resources
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.vbproj.GenerateResource.Cache
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\bin\Debug\Emailer.exe
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\bin\Debug\Emailer.pdb
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\bin\Debug\Emailer.xml
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.Preview.resources
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\bin\Debug\Emailer.exe.config
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.exe
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.xml
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.pdb
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\bin\Debug\Emailer.exe
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\bin\Debug\Emailer.pdb
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\bin\Debug\Emailer.xml
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.frmMain.resources
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.Resources.resources
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.newEmail.resources
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.Preview.resources
+C:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.vbproj.GenerateResource.Cache
+D:\PROJECTS\CURRENT PROJECT\EmailerPT\Emailer\obj\Debug\Emailer.vbprojResolveAssemblyReference.cache
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.newEmail.resources
+C:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.Preview.resources
+D:\PROJECTS\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.Preview.resources
+D:\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.exe.config
+D:\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.exe
+D:\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.pdb
+D:\CURRENT PROJECT\Emailer\Emailer\bin\Debug\Emailer.xml
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.vbprojResolveAssemblyReference.cache
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.frmMain.resources
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.Resources.resources
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.newEmail.resources
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.Preview.resources
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.vbproj.GenerateResource.Cache
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.vbproj.CoreCompileInputs.cache
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.exe
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.xml
+D:\CURRENT PROJECT\Emailer\Emailer\obj\Debug\Emailer.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\bin\Debug\Emailer.exe.config
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\bin\Debug\Emailer.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\bin\Debug\Emailer.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\bin\Debug\Emailer.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.frmMain.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.Resources.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.newEmail.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.Preview.resources
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.vbproj.GenerateResource.Cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.exe
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.pdb
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\bin\Debug\GemBox.Document.xml
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.vbprojAssemblyReference.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.vbproj.CoreCompileInputs.cache
+D:\RAMBLERS\GLENROTHES MANAGER CODE\Emailer\Emailer\obj\Debug\Emailer.vbproj.CopyComplete

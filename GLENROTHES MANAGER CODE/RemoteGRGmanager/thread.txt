@@ -1,0 +1,20 @@
+Sub Main()
+Dim theThread _
+As New Threading.Thread(
+AddressOf Permute)
+
+Permute(5)
+Console.WriteLine("Finished Main")
+Console.ReadLine()
+End Sub
+Sub Permute(ByVal K As Long)
+...
+Permutate(K, 1)
+...
+End Sub
+Private Sub Permutate( ...
+...
+Console.WriteLine(
+pno & " = " & pString)
+...
+End Sub
